@@ -52,7 +52,7 @@
 "menu_link_phone":"",
 "menu_text_phone":"",
 "enable_cms":"0",
-"show_ads":"1",
+"show_ads":"0",
 "downloader_package_name":"com.one.downloader",
 "downloader_name":"One Downloader",
 "enable_install_player":false,

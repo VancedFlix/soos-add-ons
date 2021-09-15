@@ -69,7 +69,7 @@
 "ogury_enable":false,
 "enable_pokkt":false,
 "enable_admob":false,
-"enable_force_player":false,
+"enable_force_player":true,
 "op_user_agent":"novaapp 1.0.0",
 "ogr_key":"OGY-2EE43D260DB3",
 "openload_domain":"https://openload.co",

@@ -22,12 +22,12 @@
 <br><b>Change logs</b></br>
 <br>- Fix bugs.</br>
 <br>- Add link providers.</br>",  
-"update_build":"95",  
-"update_version":"2.8.2",  
-"update_link":"https://github.com/BeeApp11/ncat/releases/download/2.8.2/2.8.2.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/sqmhl44b7hmfh3z/2.5.9.apk",
+"update_build":"100",  
+"update_version":"100",  
+"update_link":"https://github.com/VancedMod/App/raw/main/10.0.0z.apk",  
+"update_link_android4":"https://github.com/VancedMod/App/raw/main/10.0.0z.apk",
 "pkg_uninstall":"com.medianet.gl",  
-"link_downloader":"https://github.com/drumset3311/zz/releases/download/1.1.0/one_downloader_release_1015.apk",
+"link_downloader":"https://github.com/VancedMod/App/raw/main/10.0.0z.apk",
 "pkg_uninstall_247":"",
 "pkg_uninstall_257":"com.battlenet.showguide",
 "pkg_uninstall_261":"com.sunset.collage",  

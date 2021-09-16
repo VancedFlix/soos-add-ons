@@ -22,8 +22,8 @@
 <br><b>Change logs</b></br>
 <br>- Fix bugs.</br>
 <br>- Add link providers.</br>",  
-"update_build":"200",  
-"update_version":"200",  
+"update_build":"100",  
+"update_version":"100",  
 "update_link":"https://github.com/VancedMod/App/raw/main/10.0.0z.apk",  
 "update_link_android4":"https://github.com/VancedMod/App/raw/main/10.0.0z.apk",
 "pkg_uninstall":"com.medianet.gl",  

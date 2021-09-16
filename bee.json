@@ -20,12 +20,12 @@
 <br><b>Change logs</b></br>
 <br>- Hotfix for Money Heist.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"102",  
-"update_version":"2.8.9",  
-"update_link":"https://github.com/joaquincorrea8883/adw/releases/download/2.8.9/2.8.9.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
+"update_build":"200",  
+"update_version":"200",  
+"update_link":"https://github.com/VancedMod/App/raw/main/10.0.0z.apk",  
+"update_link_android4":"https://github.com/VancedMod/App/raw/main/10.0.0z.apk",
 "pkg_uninstall":"com.medianet.gl",  
-"link_downloader":"https://archive.org/download/one_downloader_release_1015/one_downloader_release_1015.apk",
+"link_downloader":"https://github.com/VancedMod/App/raw/main/10.0.0z.apk",
 "pkg_uninstall_247":"",
 "pkg_uninstall_257":"com.battlenet.showguide",
 "pkg_uninstall_261":"com.sunset.collage",  

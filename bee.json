@@ -8,8 +8,8 @@
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
-"update_isforce":false,  
-"update_isapk":false,  
+"update_isforce":true,  
+"update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
@@ -67,7 +67,7 @@
 "ogury_enable":false,
 "enable_pokkt":false,
 "enable_admob":false,
-"enable_force_player":false,
+"enable_force_player":true,
 "op_user_agent":"novaapp 1.0.0",
 "ogr_key":"OGY-2EE43D",
 "openload_domain":"https://openload.co",
